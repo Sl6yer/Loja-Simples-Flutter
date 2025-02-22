@@ -12,8 +12,6 @@ Este é um aplicativo móvel para uma loja com diversas funcionalidades, incluin
 
 **Localizar loja:** Encontre a loja mais próxima com base na localização do usuário.
 
-**Ligar para a loj** Comunique-se com a loja diretamente pelo aplicativo.
-
 **Sistema de login** Autenticação de usuários para salvar pedidos e informações de compras.
 
 # Tecnologias
